@@ -1,2 +1,2 @@
 # site-ffmo
-FF Mörs (FFMO) specific Gluon configuration
+FF Moers (FFMO) specific Gluon configuration
