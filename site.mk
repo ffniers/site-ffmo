@@ -26,7 +26,7 @@ GLUON_SITE_PACKAGES := \
 
 GLUON_LANGS = en de
 
-DEFAULT_GLUON_RELEASE := 0.7.1
+DEFAULT_GLUON_RELEASE := 0.7.3
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
