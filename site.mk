@@ -3,12 +3,13 @@ GLUON_SITE_PACKAGES := \
 	gluon-alfred \
 	gluon-announced \
 	gluon-autoupdater \
+	gluon-neighbour-info \ 
 	gluon-config-mode-autoupdater \
 	gluon-config-mode-contact-info \
 	gluon-config-mode-core \
 	gluon-config-mode-geo-location \
 	gluon-config-mode-hostname \
-	gluon-config-mode-mesh-vpn \
+	gluon-config-mode-tunneldigger \
 	gluon-ebtables-filter-multicast \
 	gluon-ebtables-filter-ra-dhcp \
 	gluon-luci-admin \
@@ -17,12 +18,12 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-wifi-config \
 	gluon-luci-theme \
 	gluon-luci-private-wifi \
-        gluon-luci-mesh-vpn-fastd \
 	gluon-next-node \
-	gluon-mesh-vpn-fastd \
+	gluon-mesh-vpn-tunneldigger \
 	gluon-radvd \
 	gluon-setup-mode \
 	gluon-status-page \
+	gluon-migrate-vpn \
 	gluon-ssid-changer \
 	haveged \
 	iptables \
