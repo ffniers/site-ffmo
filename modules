@@ -1,7 +1,16 @@
-GLUON_SITE_FEEDS='ssidchanger ffrl_packages'
-PACKAGES_SSIDCHANGER_REPO=https://github.com/ffac/gluon-ssid-changer.git
-PACKAGES_SSIDCHANGER_COMMIT=d5067d92203aac3726faceb19fa8720251cb0603
+GLUON_SITE_FEEDS='ffrl ffac ffho ssidchanger'
+PACKAGES_FFHO_REPO=https://github.com/FreifunkHochstift/ffho-packages.git
+PACKAGES_FFHO_BRANCH=v2016.2.x
+PACKAGES_FFHO_COMMIT=b4924e41bb3622b57e7ab8514dacbaa1d1133c45
 
-PACKAGES_FFRL_PACKAGES_REPO=https://github.com/ffrl/ffrl-packages.git
-PACKAGES_FFRL_PACKAGES_COMMIT=a68ed8eddc17652e37687c518341ac6075376683
-PACKAGES_FFRL_PACKAGES_BRANCH=backports_2015.1.2
+PACKAGES_SSIDCHANGER_REPO=https://github.com/ffac/gluon-ssid-changer.git
+PACKAGES_SSIDCHANGER_BRANCH=chaos-calmer
+PACKAGES_SSIDCHANGER_COMMIT=cc650fa8432c9f368e36cd60b7b1217b34d60c38
+
+PACKAGES_FFRL_REPO=https://github.com/ffrl/ffrl-packages.git
+PACKAGES_FFRL_COMMIT=9ef54396cf79031b1b7e35af038b8a0f2ec1bd90
+PACKAGES_FFRL_BRANCH=Branch_v2016.2.x
+
+PACKAGES_FFAC_REPO=https://github.com/ffac/ffac-status-page-api.git
+PACKAGES_FFAC_COMMIT=c400dcc4daf47187ad705db8ba9eb0d3354deb61
+PACKAGES_FFAC_BRANCH=master
