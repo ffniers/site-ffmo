@@ -1,5 +1,5 @@
 GLUON_SITE_PACKAGES := \
-    gluon-mesh-batman-adv-14 \
+        gluon-mesh-batman-adv-14 \
 	gluon-alfred \
 	gluon-respondd \
 	gluon-autoupdater \
@@ -15,7 +15,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-theme \
 	gluon-luci-admin \
 	gluon-luci-autoupdater \
-    gluon-luci-portconfig \
+        gluon-luci-portconfig \
 	gluon-luci-wifi-config \
 	gluon-luci-private-wifi \
 	gluon-next-node \
@@ -38,7 +38,7 @@ GLUON_REGION ?= eu
 GLUON_LANGS ?= en de
 
 #DEFAULT_GLUON_RELEASE := 0.7-$(GLUON_BRANCH)-$(shell date '+%Y%m%d')
-DEFAULT_GLUON_RELEASE := 0.8.4
+DEFAULT_GLUON_RELEASE := 0.8.5
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
