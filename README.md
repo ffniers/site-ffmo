@@ -1,2 +1,2 @@
-# site-ffmo
-FF Moers (FFMO) specific Gluon configuration
+# site-ffmg
+FF Mönchengladbach (FFMo) specific Gluon configuration
